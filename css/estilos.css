@@ -41,6 +41,9 @@ body
     margin: 0 auto;
 }
 
+#post{
+    background: white;
+}
 
 #container h1
 {
